@@ -1,4 +1,4 @@
-# fitness
+# Fitin
 
 A new Flutter project.
 
